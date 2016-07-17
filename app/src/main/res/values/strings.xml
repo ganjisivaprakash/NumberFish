@@ -3,4 +3,9 @@
     <string name="find_btn_txt">FIND</string>
     <string name="number_ex_txt">Ex: +9189028392847</string>
     <string name="enter_number_txt">ENTER NUMBER</string>
+
+    <string-array name="country_list">
+        <item>+91</item>
+        <item>+93</item>
+    </string-array>
 </resources>
